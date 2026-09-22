@@ -1,0 +1,42 @@
+# 放去 GitHub repo：.github/workflows/beyblade-watch.yml
+name: Beyblade stock watch
+
+on:
+  schedule:
+    # 每 15 分鐘（UTC）。GitHub 有時會遲幾分鐘，唔保證準時。
+    - cron: "*/15 * * * *"
+  workflow_dispatch: # 可以喺 Actions 頁手動撳 Run
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Restore last snapshot
+        uses: actions/cache@v4
+        with:
+          path: beyblade_stock_state.json
+          key: beyblade-state-${{ github.run_id }}
+          restore-keys: |
+            beyblade-state-
+
+      - name: Run checker once
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python beyblade_stock_watch.py
+
+      - name: Save snapshot for next run
+        uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: beyblade_stock_state.json
+          key: beyblade-state-${{ github.run_id }}
