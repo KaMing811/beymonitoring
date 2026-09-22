@@ -3,9 +3,11 @@ name: Beyblade stock watch
 
 on:
   schedule:
-    # 每 15 分鐘（UTC）。GitHub 有時會遲幾分鐘，唔保證準時。
     - cron: "*/15 * * * *"
-  workflow_dispatch: # 可以喺 Actions 頁手動撳 Run
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   check:
@@ -21,22 +23,19 @@ jobs:
       - name: Install deps
         run: pip install requests
 
-      - name: Restore last snapshot
-        uses: actions/cache@v4
-        with:
-          path: beyblade_stock_state.json
-          key: beyblade-state-${{ github.run_id }}
-          restore-keys: |
-            beyblade-state-
-
       - name: Run checker once
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: python beyblade_stock_watch.py
 
-      - name: Save snapshot for next run
-        uses: actions/cache/save@v4
-        if: always()
-        with:
-          path: beyblade_stock_state.json
-          key: beyblade-state-${{ github.run_id }}
+      - name: Save snapshot into repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add beyblade_stock_state.json
+          if git diff --staged --quiet; then
+            echo "snapshot unchanged"
+          else
+            git commit -m "chore: update beyblade stock snapshot"
+            git push
+          fi
