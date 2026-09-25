@@ -1764,14 +1764,14 @@
       "available": true,
       "url": "https://www.mobilegaragehk.com/products/takara-tomy-beyblade-x-bx-27-random-booster-vol-2-sphinx-cowl-full-set-of-3"
     },
-    "mr-9054380654749": {
+    "mr-9054938136733": {
       "store": "Moonroad",
-      "id": "mr-9054380654749",
-      "title": "【10–11月預訂】BEYBLADE X BX-52 Luster Dragoon 6-60LC 起始組",
-      "sku": "MR-BX-52-OCT2026",
-      "price": "29.00",
-      "available": false,
-      "url": "https://www.moonroadhk.com/products/beyblade-x-bx52-luster-dragoon-6-60lc-preorder"
+      "id": "mr-9054938136733",
+      "title": "【限時優惠組合】BEYBLADE X 陀螺優惠 Bundle（CX16 + UX03 + 自選 BX25 / BX43）",
+      "sku": null,
+      "price": "76.00",
+      "available": true,
+      "url": "https://www.moonroadhk.com/products/takara-tomy-beyblade-x-限時優惠組合-beyblade-x"
     },
     "mr-9054380753053": {
       "store": "Moonroad",
@@ -1791,6 +1791,15 @@
       "available": false,
       "url": "https://www.moonroadhk.com/products/beyblade-x-bx53-all-in-one-set-preorder"
     },
+    "mr-9054380654749": {
+      "store": "Moonroad",
+      "id": "mr-9054380654749",
+      "title": "【10–11月預訂】BEYBLADE X BX-52 Luster Dragoon 6-60LC 起始組",
+      "sku": "MR-BX-52-OCT2026",
+      "price": "29.00",
+      "available": false,
+      "url": "https://www.moonroadhk.com/products/beyblade-x-bx52-luster-dragoon-6-60lc-preorder"
+    },
     "mr-9039801811101": {
       "store": "Moonroad",
       "id": "mr-9039801811101",
@@ -1799,15 +1808,6 @@
       "price": "33.00",
       "available": false,
       "url": "https://www.moonroadhk.com/products/beyblade-x-cx-00-tiga-rage-ft3-60t-bxg-70"
-    },
-    "mr-8897481703581": {
-      "store": "Moonroad",
-      "id": "mr-8897481703581",
-      "title": "Takara Tomy 爆旋陀螺X - UX-09 武士軍刀 2-70L (附發射器)【日版】",
-      "sku": "4904810939535",
-      "price": "40.00",
-      "available": false,
-      "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-ux-09-武士軍刀-2-70l-附發射器-日版"
     },
     "mr-9029208637597": {
       "store": "Moonroad",
@@ -2187,20 +2187,11 @@
       "available": false,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-三陀螺套裝烈鯊鱗甲4-50uf-暴龍咆哮1-70l-煉獄勇者3-60gfb-港版"
     },
-    "mr-8900190240925": {
-      "store": "Moonroad",
-      "id": "mr-8900190240925",
-      "title": "Takara Tomy BEYBLADE X UX-03 魔導神杖 5-70DB（港版）",
-      "sku": "4904810914495",
-      "price": "16.00",
-      "available": false,
-      "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-ux-03-魔導神杖-5-70db-港版"
-    },
     "mr-8899779330205": {
       "store": "Moonroad",
       "id": "mr-8899779330205",
       "title": "【PRE-ORDER 】Takara Tomy 爆旋陀螺X - BX-49 蒼龍突擊(附發射器) 4-50FF【港版】7月到貨",
-      "sku": null,
+      "sku": "4904810096122",
       "price": "20.00",
       "available": true,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-bx-45-武士聖劍-b6-70m-副本"
@@ -2357,6 +2348,15 @@
       "price": "46.00",
       "available": false,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-ux-11-衝擊龍神-9-60lr-附發射器-日版"
+    },
+    "mr-8897481703581": {
+      "store": "Moonroad",
+      "id": "mr-8897481703581",
+      "title": "Takara Tomy 爆旋陀螺X - UX-09 武士軍刀 2-70L (附發射器)【日版】",
+      "sku": "4904810939535",
+      "price": "40.00",
+      "available": false,
+      "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-ux-09-武士軍刀-2-70l-附發射器-日版"
     },
     "mr-8897481670813": {
       "store": "Moonroad",
@@ -2592,20 +2592,20 @@
       "available": true,
       "url": "https://www.toysrus.com.hk/zh-hk/globber-primo-foldable-lights-mint-scooter-10014079.html"
     },
-    "tru-10173115": {
-      "store": "反斗城",
-      "id": "tru-10173115",
-      "title": "10173115",
-      "sku": "10173115",
-      "price": "",
-      "available": true,
-      "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
-    },
     "tru-10173113": {
       "store": "反斗城",
       "id": "tru-10173113",
       "title": "10173113",
       "sku": "10173113",
+      "price": "",
+      "available": true,
+      "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
+    },
+    "tru-10173115": {
+      "store": "反斗城",
+      "id": "tru-10173115",
+      "title": "10173115",
+      "sku": "10173115",
       "price": "",
       "available": true,
       "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
@@ -2620,5 +2620,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
     }
   },
-  "checked_at": "2026-09-25 07:33:54"
+  "checked_at": "2026-09-25 13:34:26"
 }
