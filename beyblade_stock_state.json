@@ -2628,15 +2628,6 @@
       "available": true,
       "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
     },
-    "tru-10173115": {
-      "store": "反斗城",
-      "id": "tru-10173115",
-      "title": "10173115",
-      "sku": "10173115",
-      "price": "",
-      "available": true,
-      "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
-    },
     "tru-10173114": {
       "store": "反斗城",
       "id": "tru-10173114",
@@ -2645,7 +2636,16 @@
       "price": "",
       "available": true,
       "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
+    },
+    "tru-10173115": {
+      "store": "反斗城",
+      "id": "tru-10173115",
+      "title": "10173115",
+      "sku": "10173115",
+      "price": "",
+      "available": true,
+      "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
     }
   },
-  "checked_at": "2026-09-26 17:03:17"
+  "checked_at": "2026-09-26 20:57:24"
 }
