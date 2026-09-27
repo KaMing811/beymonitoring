@@ -1878,7 +1878,7 @@
       "title": "Takara Tomy 爆旋陀螺X - CX-15 邪神狂暴 FE4-55Y【港版】",
       "sku": "4904810097273",
       "price": "16.00",
-      "available": true,
+      "available": false,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-cx-15-邪神狂暴-fe4-55y-港版"
     },
     "mr-8996311990429": {
@@ -2647,5 +2647,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
     }
   },
-  "checked_at": "2026-09-27 04:59:53"
+  "checked_at": "2026-09-27 10:30:55"
 }
