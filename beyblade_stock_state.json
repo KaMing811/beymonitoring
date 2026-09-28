@@ -2151,6 +2151,15 @@
       "available": true,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-cx-09-starter-焰神滅世-d5-70tk-港版"
     },
+    "mr-8901396922525": {
+      "store": "Moonroad",
+      "id": "mr-8901396922525",
+      "title": "Takara Tomy 爆旋陀螺X - UX-16 隨機陀螺 Vol.6 時鐘幽景 (隨機1款)【港版】",
+      "sku": null,
+      "price": "13.00",
+      "available": false,
+      "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-ux-16-隨機陀螺-vol-6-時鐘幽景-隨機1款-港版"
+    },
     "mr-8901396856989": {
       "store": "Moonroad",
       "id": "mr-8901396856989",
@@ -2217,9 +2226,9 @@
     "mr-8899779330205": {
       "store": "Moonroad",
       "id": "mr-8899779330205",
-      "title": "【PRE-ORDER 】Takara Tomy 爆旋陀螺X - BX-49 蒼龍突擊(附發射器) 4-50FF【港版】7月到貨",
+      "title": "Takara Tomy 爆旋陀螺X - BX-49 蒼龍突擊(附發射器) 4-50FF【港版",
       "sku": "4904810096122",
-      "price": "20.00",
+      "price": "16.00",
       "available": true,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-bx-45-武士聖劍-b6-70m-副本"
     },
@@ -2647,5 +2656,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
     }
   },
-  "checked_at": "2026-09-28 08:33:57"
+  "checked_at": "2026-09-28 17:34:15"
 }
