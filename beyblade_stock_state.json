@@ -2619,6 +2619,15 @@
       "available": true,
       "url": "https://www.toysrus.com.hk/zh-hk/globber-primo-foldable-lights-mint-scooter-10014079.html"
     },
+    "tru-10173115": {
+      "store": "反斗城",
+      "id": "tru-10173115",
+      "title": "10173115",
+      "sku": "10173115",
+      "price": "",
+      "available": true,
+      "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
+    },
     "tru-10173113": {
       "store": "反斗城",
       "id": "tru-10173113",
@@ -2636,16 +2645,7 @@
       "price": "",
       "available": true,
       "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
-    },
-    "tru-10173115": {
-      "store": "反斗城",
-      "id": "tru-10173115",
-      "title": "10173115",
-      "sku": "10173115",
-      "price": "",
-      "available": true,
-      "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
     }
   },
-  "checked_at": "2026-09-28 01:34:22"
+  "checked_at": "2026-09-28 08:33:57"
 }
