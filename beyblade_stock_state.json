@@ -1596,9 +1596,9 @@
     "mg-9667309764849": {
       "store": "Mobile Garage",
       "id": "mg-9667309764849",
-      "title": "Beyblade X BX-47 S Pegasis 3-70RA Starter Set",
+      "title": "Beyblade X BXG-47 S Pegasis 3-70RA Starter Set",
       "sku": "C-001-005",
-      "price": "79.99",
+      "price": "25.99",
       "available": true,
       "url": "https://www.mobilegaragehk.com/products/beyblade-x-bx-47-s-pegasis-3-70ra-starter-set"
     },
@@ -2012,7 +2012,7 @@
       "id": "mr-8907897438365",
       "title": "Takara Tomy 爆旋陀螺 BeybladeX x DMM 一番賞 Vol.2 (原箱)(Pre-order)",
       "sku": null,
-      "price": "495.00",
+      "price": "494.00",
       "available": false,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺-beybladex-x-dmm-一番賞-vol-2-原箱pre-order"
     },
@@ -2148,7 +2148,7 @@
       "title": "【PRE-ORDER 】Takara Tomy 爆旋陀螺X - CX-09 Starter 焰神滅世 D5-70TK【港版】7月到貨",
       "sku": "4904810995678",
       "price": "17.00",
-      "available": true,
+      "available": false,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-cx-09-starter-焰神滅世-d5-70tk-港版"
     },
     "mr-8901396922525": {
@@ -2300,7 +2300,7 @@
       "id": "mr-8897484783773",
       "title": "Takara Tomy 爆旋陀螺X - CX-16 啟動衝刺套裝C (附發射器)【日版】",
       "sku": null,
-      "price": "92.00",
+      "price": "91.00",
       "available": false,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-cx-16-啟動衝刺套裝c-附發射器-日版"
     },
@@ -2665,5 +2665,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-09-29 12:36:36"
+  "checked_at": "2026-09-29 18:33:32"
 }
