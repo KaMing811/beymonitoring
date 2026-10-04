@@ -2208,10 +2208,10 @@
     "mr-8900286283933": {
       "store": "Moonroad",
       "id": "mr-8900286283933",
-      "title": "【PRE-ORDER 】Takara Tomy 爆旋陀螺X - UX-11 衝擊龍神9-60LR【港版】7月貨",
+      "title": "Takara Tomy 爆旋陀螺X - UX-11 衝擊龍神9-60LR",
       "sku": null,
-      "price": "20.00",
-      "available": false,
+      "price": "21.00",
+      "available": true,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-ux-11-衝擊龍神9-60lr-港版"
     },
     "mr-8900190437533": {
@@ -2674,5 +2674,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-10-04 09:34:48"
+  "checked_at": "2026-10-04 15:14:53"
 }
