@@ -1797,7 +1797,7 @@
       "title": "【限時優惠組合】BEYBLADE X 陀螺優惠 Bundle（CX16 + UX03 + 自選 BX25 / BX43）",
       "sku": null,
       "price": "76.00",
-      "available": true,
+      "available": false,
       "url": "https://www.moonroadhk.com/products/takara-tomy-beyblade-x-限時優惠組合-beyblade-x"
     },
     "mr-9054380753053": {
@@ -2057,7 +2057,7 @@
       "id": "mr-8903713915037",
       "title": "Takara Tomy 爆旋陀螺X - BX-25 陀螺及配件收納箱【港版】",
       "sku": "4904810913320",
-      "price": "25.00",
+      "price": "20.00",
       "available": true,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-bx-25-陀螺及配件收納箱-港版-7月貨"
     },
@@ -2084,7 +2084,7 @@
       "id": "mr-8903713259677",
       "title": "Takara Tomy 爆旋陀螺X - BX-43 陀螺及配件收納箱 白色",
       "sku": "4904810958796",
-      "price": "21.00",
+      "price": "20.00",
       "available": true,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-bx-43-陀螺及配件收納箱-白色"
     },
@@ -2093,14 +2093,14 @@
       "id": "mr-8903712506013",
       "title": "Takara Tomy 爆旋陀螺X - CX-16 啟動衝刺套裝C (附發射器)【港版】",
       "sku": "4904810097280",
-      "price": "51.00",
+      "price": "39.00",
       "available": true,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-cx-16-啟動衝刺套裝c-附發射器-港版-預計-9-10月貨"
     },
     "mr-8901398069405": {
       "store": "Moonroad",
       "id": "mr-8901398069405",
-      "title": "【PRE-ORDER 】Takara Tomy 爆旋陀螺X - BX-23 鳳凰飛翼9-60GF【港版】 8月貨",
+      "title": "【PRE-ORDER 】Takara Tomy 爆旋陀螺X - BX-23 鳳凰飛翼9-60GF【港版】 10月貨",
       "sku": null,
       "price": "20.00",
       "available": false,
@@ -2212,7 +2212,7 @@
       "sku": null,
       "price": "21.00",
       "available": true,
-      "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-ux-11-衝擊龍神9-60lr-港版"
+      "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-x-ux-11-9-60lr"
     },
     "mr-8900190437533": {
       "store": "Moonroad",
@@ -2228,8 +2228,8 @@
       "id": "mr-8900190240925",
       "title": "Takara Tomy BEYBLADE X UX-03 魔導神杖 5-70DB（港版）",
       "sku": "4904810914495",
-      "price": "13.00",
-      "available": false,
+      "price": "16.00",
+      "available": true,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-ux-03-魔導神杖-5-70db-港版"
     },
     "mr-8899779330205": {
@@ -2674,5 +2674,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-10-05 01:51:15"
+  "checked_at": "2026-10-05 08:48:43"
 }
