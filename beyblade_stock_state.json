@@ -2346,7 +2346,7 @@
       "title": "Takara Tomy 爆旋陀螺X - CX-07 天馬爆擊 ATr【日版】",
       "sku": "4904810956976",
       "price": "39.00",
-      "available": false,
+      "available": true,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-cx-07-天馬爆擊-atr-日版"
     },
     "mr-8897484456093": {
@@ -2674,5 +2674,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-10-05 08:48:43"
+  "checked_at": "2026-10-05 18:16:18"
 }
