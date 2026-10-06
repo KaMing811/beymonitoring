@@ -1941,7 +1941,7 @@
       "title": "Takara Tomy 爆旋陀螺X - CX-18 隨機陀螺 (隨機1款)【港版】",
       "sku": "4904810096177",
       "price": "13.00",
-      "available": false,
+      "available": true,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-cx-18-隨機陀螺-隨機1款-港版"
     },
     "mr-8920777425053": {
@@ -2100,11 +2100,11 @@
     "mr-8901398069405": {
       "store": "Moonroad",
       "id": "mr-8901398069405",
-      "title": "【PRE-ORDER 】Takara Tomy 爆旋陀螺X - BX-23 鳳凰飛翼9-60GF【港版】 10月貨",
+      "title": "Takara Tomy 爆旋陀螺X - BX-23 鳳凰飛翼9-60GF【港版】",
       "sku": null,
       "price": "20.00",
-      "available": false,
-      "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-bx-23-鳳凰飛翼9-60gf-港版"
+      "available": true,
+      "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-x-bx-23-9-60gf"
     },
     "mr-8901398003869": {
       "store": "Moonroad",
@@ -2674,5 +2674,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-10-06 07:26:14"
+  "checked_at": "2026-10-06 14:59:30"
 }
