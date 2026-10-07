@@ -2039,7 +2039,7 @@
       "id": "mr-8903714013341",
       "title": "Takara Tomy 爆旋陀螺X - BX-10 極限陀螺盤套裝【港版】",
       "sku": "4904810910596",
-      "price": "37.00",
+      "price": "24.00",
       "available": true,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-bx-10-極限陀螺盤套裝-港版-7月貨"
     },
@@ -2093,7 +2093,7 @@
       "id": "mr-8903712506013",
       "title": "Takara Tomy 爆旋陀螺X - CX-16 啟動衝刺套裝C (附發射器)【港版】",
       "sku": "4904810097280",
-      "price": "39.00",
+      "price": "37.00",
       "available": true,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-cx-16-啟動衝刺套裝c-附發射器-港版-預計-9-10月貨"
     },
@@ -2547,15 +2547,6 @@
       "available": true,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-bx-34-鈷藍魔龍-2-60c"
     },
-    "mr-8895924994205": {
-      "store": "Moonroad",
-      "id": "mr-8895924994205",
-      "title": "戰鬥陀螺 BBX-BeybladeX Evangelion Deck Set",
-      "sku": null,
-      "price": "46.00",
-      "available": true,
-      "url": "https://www.moonroadhk.com/products/戰鬥陀螺-bbx-beybladex-evangelion-deck-set-pre-order"
-    },
     "mr-8894235738269": {
       "store": "Moonroad",
       "id": "mr-8894235738269",
@@ -2674,5 +2665,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-10-07 07:05:14"
+  "checked_at": "2026-10-07 15:27:21"
 }
