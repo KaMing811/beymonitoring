@@ -1561,7 +1561,7 @@
       "store": "Mobile Garage",
       "id": "mg-9676387778801",
       "title": "Beyblade X BX-57 3on3 Deck Case Black Ver",
-      "sku": "PRE-ORDER-AUG-2026",
+      "sku": "C-001-006",
       "price": "18.99",
       "available": true,
       "url": "https://www.mobilegaragehk.com/products/beyblade-x-bx-57-3on3-deck-case-black-ver"
@@ -1723,7 +1723,7 @@
       "store": "Mobile Garage",
       "id": "mg-9573252890865",
       "title": "Beyblade X CX-11 Emperormight Deck Set",
-      "sku": "PRE-ORDER-JUL-2026",
+      "sku": "C-001-006",
       "price": "199.99",
       "available": true,
       "url": "https://www.mobilegaragehk.com/products/beyblade-x-cx-11-emperormight-deck-set"
@@ -2665,5 +2665,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-10-08 01:44:18"
+  "checked_at": "2026-10-08 08:45:52"
 }
