@@ -996,7 +996,7 @@
       "title": "全新 港版 BX-00 爆旋陀螺 暴風戰鬥陀螺 4-60RA 青龍",
       "sku": null,
       "price": "128.00",
-      "available": true,
+      "available": false,
       "url": "https://hobbypocket.com/products/全新-港版-bx-00-爆旋陀螺-暴風戰鬥陀螺-4-60ra-青龍"
     },
     "hp-10353433378948": {
@@ -1526,7 +1526,7 @@
       "id": "mg-10307393814769",
       "title": "Takara Tomy Beyblade X BX-52 Cobalt Dragoon 2-60C",
       "sku": "PRE-ORDER-NOV-2026",
-      "price": "69.99",
+      "price": "45.99",
       "available": true,
       "url": "https://www.mobilegaragehk.com/products/takara-tomy-beyblade-x-bx-52-cobalt-dragoon-2-60c"
     },
@@ -2665,5 +2665,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-10-10 02:13:57"
+  "checked_at": "2026-10-10 09:40:42"
 }
