@@ -294,7 +294,7 @@
       "title": "Takara Tomy 爆旋陀螺X - BX-00 紅 天蝎長矛 0-70Z APP限定",
       "sku": null,
       "price": "250.00",
-      "available": true,
+      "available": false,
       "url": "https://hobbypocket.com/products/takara-tomy-爆旋陀螺x-bx-00-黃蜂要塞-r7-60t-副本"
     },
     "hp-10408163311748": {
@@ -2665,5 +2665,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-10-10 19:57:49"
+  "checked_at": "2026-10-10 23:27:10"
 }
