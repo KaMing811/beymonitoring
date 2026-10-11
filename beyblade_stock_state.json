@@ -1617,7 +1617,7 @@
       "title": "BBX-BOS BeybladeX Booster CX-18 Random Booster BrachioWhip Select",
       "sku": "C-001-009",
       "price": "35.99",
-      "available": true,
+      "available": false,
       "url": "https://www.mobilegaragehk.com/products/bbx-bos-beybladex-booster-cx-18-random-booster-brachiowhip-select"
     },
     "mg-9580513394929": {
@@ -2665,5 +2665,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-10-11 17:58:52"
+  "checked_at": "2026-10-11 21:49:55"
 }
