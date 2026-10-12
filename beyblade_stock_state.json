@@ -1516,7 +1516,7 @@
       "store": "Mobile Garage",
       "id": "mg-10307398271217",
       "title": "Takara Tomy Beyblade X BX-56 Launcher",
-      "sku": "PRE-ORDER-NOV-2026",
+      "sku": "C-001-011",
       "price": "25.99",
       "available": true,
       "url": "https://www.mobilegaragehk.com/products/takara-tomy-beyblade-x-bx-56-launcher"
@@ -1525,7 +1525,7 @@
       "store": "Mobile Garage",
       "id": "mg-10307393814769",
       "title": "Takara Tomy Beyblade X BX-52 Cobalt Dragoon 2-60C",
-      "sku": "PRE-ORDER-NOV-2026",
+      "sku": "C-001-011",
       "price": "45.99",
       "available": true,
       "url": "https://www.mobilegaragehk.com/products/takara-tomy-beyblade-x-bx-52-cobalt-dragoon-2-60c"
@@ -1534,7 +1534,7 @@
       "store": "Mobile Garage",
       "id": "mg-10307375497457",
       "title": "[shipping included] Takara Tomy Beyblade X BX-53 All In One Set",
-      "sku": "PRE-ORDER-NOV-2026",
+      "sku": "C-001",
       "price": "350.00",
       "available": true,
       "url": "https://www.mobilegaragehk.com/products/shipping-included-takara-tomy-beyblade-x-bx-53-all-in-one-set"
@@ -1660,7 +1660,7 @@
       "store": "Mobile Garage",
       "id": "mg-9580450185457",
       "title": "Beyblade X BX-09 Bey Battle Pass (Logger)",
-      "sku": "PRE-ORDER-JUL-2026",
+      "sku": "C-001-011",
       "price": "99.99",
       "available": true,
       "url": "https://www.mobilegaragehk.com/products/beyblade-x-bx-09-bey-battle-pass-logger"
@@ -2665,5 +2665,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-10-11 21:49:55"
+  "checked_at": "2026-10-12 01:09:29"
 }
