@@ -1806,7 +1806,7 @@
       "title": "【10–11月預訂】BEYBLADE X BX-56 String Launcher L 左迴旋拉繩發射器 白色×紫色",
       "sku": "MR-BX-56-OCT2026",
       "price": "8.00",
-      "available": false,
+      "available": true,
       "url": "https://www.moonroadhk.com/products/beyblade-x-bx56-string-launcher-l-white-violet-preorder"
     },
     "mr-9054380720285": {
@@ -2674,5 +2674,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-10-13 09:15:05"
+  "checked_at": "2026-10-13 17:30:25"
 }
