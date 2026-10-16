@@ -2012,7 +2012,7 @@
       "id": "mr-8907897438365",
       "title": "Takara Tomy 爆旋陀螺 BeybladeX x DMM 一番賞 Vol.2 (原箱)(Pre-order)",
       "sku": null,
-      "price": "495.00",
+      "price": "494.00",
       "available": false,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺-beybladex-x-dmm-一番賞-vol-2-原箱pre-order"
     },
@@ -2562,7 +2562,7 @@
       "title": "戰鬥陀螺 BBX-BeybladeX Evangelion Deck Set",
       "sku": null,
       "price": "46.00",
-      "available": true,
+      "available": false,
       "url": "https://www.moonroadhk.com/products/戰鬥陀螺-bbx-beybladex-evangelion-deck-set-pre-order"
     },
     "mr-8894235738269": {
@@ -2665,5 +2665,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
     }
   },
-  "checked_at": "2026-10-16 06:59:11"
+  "checked_at": "2026-10-16 12:17:58"
 }
