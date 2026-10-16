@@ -2012,7 +2012,7 @@
       "id": "mr-8907897438365",
       "title": "Takara Tomy 爆旋陀螺 BeybladeX x DMM 一番賞 Vol.2 (原箱)(Pre-order)",
       "sku": null,
-      "price": "494.00",
+      "price": "495.00",
       "available": false,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺-beybladex-x-dmm-一番賞-vol-2-原箱pre-order"
     },
@@ -2067,7 +2067,7 @@
       "title": "【PRE-ORDER 】Takara Tomy 爆旋陀螺X - UX-04 對戰入門套裝 (附發射器)【港版】 8月貨",
       "sku": "4904810914501",
       "price": "52.00",
-      "available": true,
+      "available": false,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-ux-04-對戰入門套裝-附發射器-港版-7月貨"
     },
     "mr-8903713685661": {
@@ -2398,7 +2398,7 @@
       "store": "Moonroad",
       "id": "mr-8897481769117",
       "title": "Takara Tomy 爆旋陀螺X - UX-11 衝擊龍神 9-60LR (附發射器)【日版】",
-      "sku": "4904810939559",
+      "sku": null,
       "price": "46.00",
       "available": false,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-ux-11-衝擊龍神-9-60lr-附發射器-日版"
@@ -2646,42 +2646,24 @@
       "available": true,
       "url": "https://www.toysrus.com.hk/zh-hk/globber-primo-foldable-lights-mint-scooter-10014079.html"
     },
-    "tru-10059198": {
+    "tru-10173909": {
       "store": "反斗城",
-      "id": "tru-10059198",
-      "title": "10059198",
-      "sku": "10059198",
+      "id": "tru-10173909",
+      "title": "10173909",
+      "sku": "10173909",
       "price": "",
       "available": true,
-      "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
+      "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
     },
-    "tru-10078221": {
+    "tru-10173908": {
       "store": "反斗城",
-      "id": "tru-10078221",
-      "title": "10078221",
-      "sku": "10078221",
+      "id": "tru-10173908",
+      "title": "10173908",
+      "sku": "10173908",
       "price": "",
       "available": true,
-      "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
-    },
-    "tru-10045673": {
-      "store": "反斗城",
-      "id": "tru-10045673",
-      "title": "10045673",
-      "sku": "10045673",
-      "price": "",
-      "available": true,
-      "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
-    },
-    "tru-10077091": {
-      "store": "反斗城",
-      "id": "tru-10077091",
-      "title": "10077091",
-      "sku": "10077091",
-      "price": "",
-      "available": true,
-      "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
+      "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
     }
   },
-  "checked_at": "2026-10-16 01:08:03"
+  "checked_at": "2026-10-16 06:59:11"
 }
