@@ -1914,7 +1914,7 @@
       "title": "Takara Tomy 爆旋陀螺X - BX-50 隨機陀螺 Vol.11 (隨機1款)【港版】",
       "sku": "4904810084174",
       "price": "29.00",
-      "available": true,
+      "available": false,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-bx-50-隨機陀螺-vol-11-隨機1款-港版"
     },
     "mr-8929760772253": {
@@ -2076,7 +2076,7 @@
       "title": "【PRE-ORDER 】Takara Tomy 爆旋陀螺X - UX-10 客製化套裝 U【港版】 8月貨",
       "sku": "4904810939542",
       "price": "42.00",
-      "available": false,
+      "available": true,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-ux-10-客製化套裝-u-港版-7月貨-副本"
     },
     "mr-8903713259677": {
@@ -2665,5 +2665,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
     }
   },
-  "checked_at": "2026-10-17 09:08:43"
+  "checked_at": "2026-10-17 13:34:39"
 }
