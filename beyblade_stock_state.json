@@ -1512,6 +1512,24 @@
       "available": false,
       "url": "https://www.tclub.com.hk/products/bx-01蒼龍神劍-3-60f"
     },
+    "mg-15247939141873": {
+      "store": "Mobile Garage",
+      "id": "mg-15247939141873",
+      "title": "Takara Tomy Beyblade X BX-54 Sieg Superion 0-70LP Booster",
+      "sku": "PRE-ORDER-NOV-2026",
+      "price": "19.99",
+      "available": true,
+      "url": "https://www.mobilegaragehk.com/products/takara-tomy-beyblade-x-bx-54-sieg-superion-0-70lp-booster"
+    },
+    "mg-15247929671921": {
+      "store": "Mobile Garage",
+      "id": "mg-15247929671921",
+      "title": "Takara Tomy Beyblade X CX-20 Customize Set C (Shipping Included)",
+      "sku": "PRE-ORDER-NOV-2026",
+      "price": "135.00",
+      "available": true,
+      "url": "https://www.mobilegaragehk.com/products/takara-tomy-beyblade-x-cx-20-customize-set-c-shipping-included"
+    },
     "mg-10307398271217": {
       "store": "Mobile Garage",
       "id": "mg-10307398271217",
@@ -1806,7 +1824,7 @@
       "title": "【10–11月預訂】BEYBLADE X BX-56 String Launcher L 左迴旋拉繩發射器 白色×紫色",
       "sku": "MR-BX-56-OCT2026",
       "price": "8.00",
-      "available": true,
+      "available": false,
       "url": "https://www.moonroadhk.com/products/beyblade-x-bx56-string-launcher-l-white-violet-preorder"
     },
     "mr-9054380720285": {
@@ -2656,5 +2674,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
     }
   },
-  "checked_at": "2026-10-20 05:50:47"
+  "checked_at": "2026-10-20 11:19:54"
 }
