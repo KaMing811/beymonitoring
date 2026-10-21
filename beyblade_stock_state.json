@@ -2247,7 +2247,7 @@
       "title": "Takara Tomy 爆旋陀螺X - CX-11 甲板套裝 (帝皇霸權 HOp, 魔像巨石 M-85HN, 烈鯊鰓刃 5-60FB)",
       "sku": "4904810098775-HKPO",
       "price": "34.00",
-      "available": false,
+      "available": true,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-cx-11-甲板套裝-帝皇霸權-hop-魔像巨石-m-85hn-烈鯊鰓刃-5-60fb"
     },
     "mr-8900286283933": {
@@ -2701,5 +2701,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
     }
   },
-  "checked_at": "2026-10-21 09:58:59"
+  "checked_at": "2026-10-21 15:06:31"
 }
