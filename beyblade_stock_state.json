@@ -1809,6 +1809,24 @@
       "available": true,
       "url": "https://www.mobilegaragehk.com/products/takara-tomy-beyblade-x-bx-27-random-booster-vol-2-sphinx-cowl-full-set-of-3"
     },
+    "mr-15453160308949": {
+      "store": "Moonroad",
+      "id": "mr-15453160308949",
+      "title": "【11月預訂】BEYBLADE X CX-20 改造套裝C",
+      "sku": null,
+      "price": "91.00",
+      "available": false,
+      "url": "https://www.moonroadhk.com/products/11月預訂-beyblade-x-cx-20-改造套裝c"
+    },
+    "mr-15453105651925": {
+      "store": "Moonroad",
+      "id": "mr-15453105651925",
+      "title": "【11月預訂】BEYBLADE X BX-54 凱旋超神 0-70LP",
+      "sku": null,
+      "price": "24.00",
+      "available": true,
+      "url": "https://www.moonroadhk.com/products/11月預訂-beyblade-x-bx-54-凱旋超神-0-70lp"
+    },
     "mr-9054938136733": {
       "store": "Moonroad",
       "id": "mr-9054938136733",
@@ -1821,10 +1839,10 @@
     "mr-9054380753053": {
       "store": "Moonroad",
       "id": "mr-9054380753053",
-      "title": "【10–11月預訂】BEYBLADE X BX-56 String Launcher L 左迴旋拉繩發射器 白色×紫色",
+      "title": "【11月預訂】BEYBLADE X BX-56 String Launcher L 左迴旋拉繩發射器 白色×紫色",
       "sku": "MR-BX-56-OCT2026",
       "price": "8.00",
-      "available": false,
+      "available": true,
       "url": "https://www.moonroadhk.com/products/beyblade-x-bx56-string-launcher-l-white-violet-preorder"
     },
     "mr-9054380720285": {
@@ -1839,10 +1857,10 @@
     "mr-9054380654749": {
       "store": "Moonroad",
       "id": "mr-9054380654749",
-      "title": "【10–11月預訂】BEYBLADE X BX-52 Luster Dragoon 6-60LC 起始組",
+      "title": "【11月預訂】BEYBLADE X BX-52 Luster Dragoon 6-60LC 起始組",
       "sku": "MR-BX-52-OCT2026",
-      "price": "29.00",
-      "available": false,
+      "price": "26.00",
+      "available": true,
       "url": "https://www.moonroadhk.com/products/beyblade-x-bx52-luster-dragoon-6-60lc-preorder"
     },
     "mr-9039801811101": {
@@ -2672,7 +2690,16 @@
       "price": "",
       "available": true,
       "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
+    },
+    "tru-10173908": {
+      "store": "反斗城",
+      "id": "tru-10173908",
+      "title": "10173908",
+      "sku": "10173908",
+      "price": "",
+      "available": true,
+      "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
     }
   },
-  "checked_at": "2026-10-21 04:21:44"
+  "checked_at": "2026-10-21 09:58:59"
 }
