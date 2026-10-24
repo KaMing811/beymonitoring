@@ -2682,15 +2682,6 @@
       "available": true,
       "url": "https://www.toysrus.com.hk/zh-hk/rummikub-hong-kong-edition-1163319.html"
     },
-    "tru-10148351": {
-      "store": "反斗城",
-      "id": "tru-10148351",
-      "title": "10148351",
-      "sku": "10148351",
-      "price": "",
-      "available": true,
-      "url": "https://www.toysrus.com.hk/zh-hk/kpop-demon-hunters-singing-dolls---rumi-10148351.html"
-    },
     "tru-10014079": {
       "store": "反斗城",
       "id": "tru-10014079",
@@ -2699,6 +2690,15 @@
       "price": "",
       "available": true,
       "url": "https://www.toysrus.com.hk/zh-hk/globber-primo-foldable-lights-mint-scooter-10014079.html"
+    },
+    "tru-10091950": {
+      "store": "反斗城",
+      "id": "tru-10091950",
+      "title": "10091950",
+      "sku": "10091950",
+      "price": "",
+      "available": true,
+      "url": "https://www.toysrus.com.hk/zh-hk/mini-brands-fill-the-fridge-series-1---assorted-10091950.html"
     },
     "tru-10173908": {
       "store": "反斗城",
@@ -2719,5 +2719,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
     }
   },
-  "checked_at": "2026-10-24 09:23:25"
+  "checked_at": "2026-10-24 13:55:28"
 }
