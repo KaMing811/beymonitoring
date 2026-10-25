@@ -1545,7 +1545,7 @@
       "title": "Takara Tomy Beyblade X CX-20 Customize Set C (Shipping Included)",
       "sku": "PRE-ORDER-NOV-2026",
       "price": "155.00",
-      "available": true,
+      "available": false,
       "url": "https://www.mobilegaragehk.com/products/takara-tomy-beyblade-x-cx-20-customize-set-c-shipping-included"
     },
     "mg-10307398271217": {
@@ -2719,5 +2719,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
     }
   },
-  "checked_at": "2026-10-25 18:18:58"
+  "checked_at": "2026-10-25 21:37:00"
 }
