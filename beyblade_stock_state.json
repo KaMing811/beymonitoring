@@ -1535,7 +1535,7 @@
       "id": "mg-15247939141873",
       "title": "Takara Tomy Beyblade X BX-54 Sieg Superion 0-70LP Booster",
       "sku": "PRE-ORDER-NOV-2026",
-      "price": "19.99",
+      "price": "25.99",
       "available": true,
       "url": "https://www.mobilegaragehk.com/products/takara-tomy-beyblade-x-bx-54-sieg-superion-0-70lp-booster"
     },
@@ -1760,7 +1760,7 @@
       "id": "mg-9573252890865",
       "title": "Beyblade X CX-11 Emperormight Deck Set",
       "sku": "C-001-006",
-      "price": "199.99",
+      "price": "150.00",
       "available": true,
       "url": "https://www.mobilegaragehk.com/products/beyblade-x-cx-11-emperormight-deck-set"
     },
@@ -1814,7 +1814,7 @@
       "id": "mg-9571746414833",
       "title": "[Shipping Included] Beyblade X Evangelion Beyblade CX-00 Deck Set",
       "sku": "C-001-004",
-      "price": "170.00",
+      "price": "150.00",
       "available": true,
       "url": "https://www.mobilegaragehk.com/products/beyblade-x-evangelion-beyblade-cx-00-deck-set"
     },
@@ -2616,7 +2616,7 @@
       "title": "戰鬥陀螺 BBX-BeybladeX Evangelion Deck Set",
       "sku": null,
       "price": "46.00",
-      "available": true,
+      "available": false,
       "url": "https://www.moonroadhk.com/products/戰鬥陀螺-bbx-beybladex-evangelion-deck-set-pre-order"
     },
     "mr-8894235738269": {
@@ -2633,7 +2633,7 @@
       "id": "mr-8894234525853",
       "title": "Takara Tomy 爆旋陀螺X - BX-17 對戰入門套裝 (附發射器)",
       "sku": "4904810913047",
-      "price": "53.00",
+      "price": "52.00",
       "available": false,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-bx-17-對戰入門套裝-附發射器"
     },
@@ -2719,5 +2719,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
     }
   },
-  "checked_at": "2026-10-26 12:46:10"
+  "checked_at": "2026-10-26 19:08:04"
 }
