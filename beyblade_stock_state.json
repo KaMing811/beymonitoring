@@ -1697,7 +1697,7 @@
       "id": "mg-9580450185457",
       "title": "Beyblade X BX-09 Bey Battle Pass (Logger)",
       "sku": "C-001-011",
-      "price": "99.99",
+      "price": "39.99",
       "available": true,
       "url": "https://www.mobilegaragehk.com/products/beyblade-x-bx-09-bey-battle-pass-logger"
     },
@@ -1949,7 +1949,7 @@
       "id": "mr-8986435354781",
       "title": "Takara Tomy 爆旋陀螺X -  BX-00 BXG-47 烈風天馬3-70A 【港版】",
       "sku": "4904810096504",
-      "price": "40.00",
+      "price": "39.00",
       "available": false,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-bx-00-bxg-47-烈風天馬3-70a-港版"
     },
@@ -1976,7 +1976,7 @@
       "id": "mr-8929760772253",
       "title": "Takara Tomy 爆旋陀螺X - BX-49 蒼龍突擊 4-50FF (附發射器)【日版】",
       "sku": "4904810096122",
-      "price": "40.00",
+      "price": "39.00",
       "available": false,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-bx-49-蒼龍突擊-4-50ff-附發射器-日版"
     },
@@ -2148,7 +2148,7 @@
       "title": "Takara Tomy 爆旋陀螺X - CX-16 啟動衝刺套裝C (附發射器)【港版】",
       "sku": "4904810097280",
       "price": "37.00",
-      "available": false,
+      "available": true,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-cx-16-啟動衝刺套裝c-附發射器-港版-預計-9-10月貨"
     },
     "mr-8901398069405": {
@@ -2309,7 +2309,7 @@
       "id": "mr-8898509045917",
       "title": "Takara Tomy 爆旋陀螺X - CX-00 R4-55LO 巫師弧光【日版】限定版",
       "sku": "4904810930907",
-      "price": "40.00",
+      "price": "39.00",
       "available": false,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-cx-00-r4-55lo-巫師弧光-日版-限定版"
     },
@@ -2408,7 +2408,7 @@
       "id": "mr-8897484521629",
       "title": "Takara Tomy 爆旋陀螺X - CX-07 天馬爆擊 ATr【日版】",
       "sku": "4904810956976",
-      "price": "40.00",
+      "price": "39.00",
       "available": false,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-cx-07-天馬爆擊-atr-日版"
     },
@@ -2462,7 +2462,7 @@
       "id": "mr-8897481703581",
       "title": "Takara Tomy 爆旋陀螺X - UX-09 武士軍刀 2-70L (附發射器)【日版】",
       "sku": "4904810939535",
-      "price": "40.00",
+      "price": "39.00",
       "available": false,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-ux-09-武士軍刀-2-70l-附發射器-日版"
     },
@@ -2516,7 +2516,7 @@
       "id": "mr-8897476591773",
       "title": "akara Tomy 爆旋陀螺X - BX-39 隨機陀螺 Vol.6 神護魔龍 (隨機1款)【日版】",
       "sku": "4904810939511",
-      "price": "40.00",
+      "price": "39.00",
       "available": false,
       "url": "https://www.moonroadhk.com/products/akara-tomy-爆旋陀螺x-bx-39-隨機陀螺-vol-6-神護魔龍-隨機1款-日版"
     },
@@ -2616,7 +2616,7 @@
       "title": "戰鬥陀螺 BBX-BeybladeX Evangelion Deck Set",
       "sku": null,
       "price": "46.00",
-      "available": false,
+      "available": true,
       "url": "https://www.moonroadhk.com/products/戰鬥陀螺-bbx-beybladex-evangelion-deck-set-pre-order"
     },
     "mr-8894235738269": {
@@ -2719,5 +2719,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
     }
   },
-  "checked_at": "2026-10-26 05:56:26"
+  "checked_at": "2026-10-26 12:46:10"
 }
