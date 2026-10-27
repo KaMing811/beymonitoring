@@ -60,7 +60,7 @@
       "title": "訂貨碼:80188 <訂價$535> #(免手續費)(每人限一)A+B賞 限定陀螺及發射器=BeybladeX 陀螺 x DMM 一番賞 Vol.2",
       "sku": "80188",
       "price": "300.00",
-      "available": false,
+      "available": true,
       "url": "https://lastchancetoy.com/products/訂貨碼-80188-訂價-535-免手續費a-b賞-限定陀螺及發射器-beybladex-陀螺-x-dmm-一番賞-vol-2"
     },
     "hp-10481341137028": {
@@ -2616,7 +2616,7 @@
       "title": "戰鬥陀螺 BBX-BeybladeX Evangelion Deck Set",
       "sku": null,
       "price": "46.00",
-      "available": false,
+      "available": true,
       "url": "https://www.moonroadhk.com/products/戰鬥陀螺-bbx-beybladex-evangelion-deck-set-pre-order"
     },
     "mr-8894235738269": {
@@ -2700,24 +2700,42 @@
       "available": true,
       "url": "https://www.toysrus.com.hk/zh-hk/mini-brands-fill-the-fridge-series-1---assorted-10091950.html"
     },
-    "tru-10173908": {
+    "tru-10059198": {
       "store": "反斗城",
-      "id": "tru-10173908",
-      "title": "10173908",
-      "sku": "10173908",
+      "id": "tru-10059198",
+      "title": "10059198",
+      "sku": "10059198",
       "price": "",
       "available": true,
-      "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
+      "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     },
-    "tru-10173909": {
+    "tru-10078221": {
       "store": "反斗城",
-      "id": "tru-10173909",
-      "title": "10173909",
-      "sku": "10173909",
+      "id": "tru-10078221",
+      "title": "10078221",
+      "sku": "10078221",
       "price": "",
       "available": true,
-      "url": "https://www.toysrus.com.hk/zh-hk/beyblade/"
+      "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
+    },
+    "tru-10045673": {
+      "store": "反斗城",
+      "id": "tru-10045673",
+      "title": "10045673",
+      "sku": "10045673",
+      "price": "",
+      "available": true,
+      "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
+    },
+    "tru-10077091": {
+      "store": "反斗城",
+      "id": "tru-10077091",
+      "title": "10077091",
+      "sku": "10077091",
+      "price": "",
+      "available": true,
+      "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-10-27 10:20:18"
+  "checked_at": "2026-10-27 16:22:18"
 }
