@@ -60,7 +60,7 @@
       "title": "訂貨碼:80188 <訂價$535> #(免手續費)(每人限一)A+B賞 限定陀螺及發射器=BeybladeX 陀螺 x DMM 一番賞 Vol.2",
       "sku": "80188",
       "price": "300.00",
-      "available": true,
+      "available": false,
       "url": "https://lastchancetoy.com/products/訂貨碼-80188-訂價-535-免手續費a-b賞-限定陀螺及發射器-beybladex-陀螺-x-dmm-一番賞-vol-2"
     },
     "hp-10481341137028": {
@@ -2066,7 +2066,7 @@
       "id": "mr-8907897438365",
       "title": "Takara Tomy 爆旋陀螺 BeybladeX x DMM 一番賞 Vol.2 (原箱)(Pre-order)",
       "sku": null,
-      "price": "494.00",
+      "price": "495.00",
       "available": false,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺-beybladex-x-dmm-一番賞-vol-2-原箱pre-order"
     },
@@ -2737,5 +2737,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-10-29 14:04:31"
+  "checked_at": "2026-10-29 20:09:33"
 }
