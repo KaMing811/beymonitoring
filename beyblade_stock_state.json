@@ -60,7 +60,7 @@
       "title": "訂貨碼:80188 <訂價$535> #(免手續費)(每人限一)A+B賞 限定陀螺及發射器=BeybladeX 陀螺 x DMM 一番賞 Vol.2",
       "sku": "80188",
       "price": "300.00",
-      "available": false,
+      "available": true,
       "url": "https://lastchancetoy.com/products/訂貨碼-80188-訂價-535-免手續費a-b賞-限定陀螺及發射器-beybladex-陀螺-x-dmm-一番賞-vol-2"
     },
     "hp-10481341137028": {
@@ -2737,5 +2737,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-10-29 06:55:04"
+  "checked_at": "2026-10-29 14:04:31"
 }
