@@ -78,7 +78,7 @@
       "title": "日本月刊  快樂龍 CoroCoro 漫畫 9月刊 應募券 Beyblade x - UX-00 16 藍時鐘幽景",
       "sku": null,
       "price": "80.00",
-      "available": true,
+      "available": false,
       "url": "https://hobbypocket.com/products/日本月刊-快樂龍-corocoro-漫畫-9月刊-應募券-beyblade-x-ux-00-16-藍時鐘幽景"
     },
     "hp-10425700057220": {
@@ -239,7 +239,7 @@
       "id": "hp-10421708521604",
       "title": "Takara Tomy 爆旋陀螺X - 日版  CX-00 龍神勇氣 G4-70I",
       "sku": null,
-      "price": "1850.00",
+      "price": "980.00",
       "available": true,
       "url": "https://hobbypocket.com/products/takara-tomy-爆旋陀螺x-日版-beyblade-x-ux-4"
     },
@@ -374,7 +374,7 @@
       "id": "hp-10384104194180",
       "title": "日版 Beyblade X UX-00  騎士圓甲 3-85BS (金屬海軍藍色)",
       "sku": "sp260050",
-      "price": "400.00",
+      "price": "250.00",
       "available": true,
       "url": "https://hobbypocket.com/products/日版-beyblade-x-ux-00-騎士圓甲-3-85bs-金屬海軍藍色"
     },
@@ -419,7 +419,7 @@
       "id": "hp-10369611399300",
       "title": "Takara Tomy 爆旋陀螺X - Beyblade X BX-00 鱷魚Croco Crunch 2-60Q 特別版",
       "sku": null,
-      "price": "580.00",
+      "price": "300.00",
       "available": true,
       "url": "https://hobbypocket.com/products/takara-tomy-爆旋陀螺x-beyblade-x-bx-00-猛瑪象牙齒-2-80e-黑色"
     },
@@ -869,7 +869,7 @@
       "id": "hp-10359104929924",
       "title": "日版 爆旋陀螺 Beyblade X TAKARA TOMY Beyblade 爆旋陀螺 X CX-18 隨機陀螺Brachio Whip",
       "sku": null,
-      "price": "189.00",
+      "price": "119.00",
       "available": true,
       "url": "https://hobbypocket.com/products/日版-爆旋陀螺-beyblade-x-takara-tomy-beyblade-爆旋陀螺-x-cx-18"
     },
@@ -878,7 +878,7 @@
       "id": "hp-10359095197828",
       "title": "日版 爆旋陀螺 Beyblade X TAKARA TOMY Beyblade 爆旋陀螺 X UX-19  Bullet Griffon  子彈獅鷲",
       "sku": null,
-      "price": "350.00",
+      "price": "159.00",
       "available": true,
       "url": "https://hobbypocket.com/products/日版-爆旋陀螺-beyblade-x-takara-tomy-beyblade-爆旋陀螺-x-ux-19"
     },
@@ -896,7 +896,7 @@
       "id": "hp-10359092641924",
       "title": "日版 爆旋陀螺 Beyblade X TAKARA TOMY Beyblade 爆旋陀螺 X UX-17 隕石青龍",
       "sku": null,
-      "price": "358.00",
+      "price": "158.00",
       "available": true,
       "url": "https://hobbypocket.com/products/日版-爆旋陀螺-beyblade-x-takara-tomy-beyblade-爆旋陀螺-x-ux-17"
     },
@@ -986,7 +986,7 @@
       "id": "hp-10358644211844",
       "title": "日版 爆旋陀螺 Beyblade X TAKARA TOMY Beyblade 爆旋陀螺 X UX-03 巫師幻杖5-70DB",
       "sku": null,
-      "price": "260.00",
+      "price": "160.00",
       "available": true,
       "url": "https://hobbypocket.com/products/日版-爆旋陀螺-beyblade-x-takara-tomy-beyblade-爆旋陀螺-x-ux-03-巫師幻杖5-70db"
     },
@@ -1094,7 +1094,7 @@
       "id": "hp-10352802857092",
       "title": "日版 爆旋陀螺 BEYBLADE X   戰鬥陀螺 CX-00 S6-60V 蒼龍勇氣 S6-60V 金屬塗層：黑色",
       "sku": null,
-      "price": "400.00",
+      "price": "180.00",
       "available": true,
       "url": "https://hobbypocket.com/products/bx-49-starter-dranstrike-4-50ff"
     },
@@ -1130,7 +1130,7 @@
       "id": "hp-10345518137476",
       "title": "全新現貨 日版 TAKARA TOMY beybladeX BX-23 鳳凰飛翼 陀螺",
       "sku": null,
-      "price": "198.00",
+      "price": "158.00",
       "available": true,
       "url": "https://hobbypocket.com/products/takara-tomy-beybladex-bx-23-鳳凰飛翼-陀螺"
     },
@@ -1683,6 +1683,15 @@
       "available": true,
       "url": "https://www.mobilegaragehk.com/products/beyblade-x-cx-03-perseus-dark-b6-80w-booster"
     },
+    "mg-9580480725233": {
+      "store": "Mobile Garage",
+      "id": "mg-9580480725233",
+      "title": "Beyblade X BX-10 Xtreme Stadium",
+      "sku": "PRE-ORDER-JUL-2026",
+      "price": "30.00",
+      "available": false,
+      "url": "https://www.mobilegaragehk.com/products/beyblade-x-bx-10-xtreme-stadium"
+    },
     "mg-9580459884785": {
       "store": "Mobile Garage",
       "id": "mg-9580459884785",
@@ -1827,6 +1836,15 @@
       "available": true,
       "url": "https://www.mobilegaragehk.com/products/takara-tomy-beyblade-x-bx-27-random-booster-vol-2-sphinx-cowl-full-set-of-3"
     },
+    "mr-15460561780949": {
+      "store": "Moonroad",
+      "id": "mr-15460561780949",
+      "title": "Takara Tomy 爆旋陀螺X - UX-00 4-55S 時鐘幻影【日版】限定版",
+      "sku": null,
+      "price": "50.00",
+      "available": false,
+      "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-ux-00-4-55s-時鐘幻影-日版-限定版"
+    },
     "mr-15453160308949": {
       "store": "Moonroad",
       "id": "mr-15453160308949",
@@ -1940,7 +1958,7 @@
       "id": "mr-8996311990429",
       "title": "Takara Tomy 爆旋陀螺X - UX-21 惡魔幽冥改造組",
       "sku": null,
-      "price": "66.00",
+      "price": "59.00",
       "available": true,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-ux-21-惡魔幽冥改造組"
     },
@@ -2093,8 +2111,8 @@
       "id": "mr-8903714013341",
       "title": "Takara Tomy 爆旋陀螺X - BX-10 極限陀螺盤套裝【港版】",
       "sku": "4904810910596",
-      "price": "24.00",
-      "available": false,
+      "price": "20.00",
+      "available": true,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-bx-10-極限陀螺盤套裝-港版-7月貨"
     },
     "mr-8903713980573": {
@@ -2147,7 +2165,7 @@
       "id": "mr-8903712506013",
       "title": "Takara Tomy 爆旋陀螺X - CX-16 啟動衝刺套裝C (附發射器)【港版】",
       "sku": "4904810097280",
-      "price": "37.00",
+      "price": "34.00",
       "available": true,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-cx-16-啟動衝刺套裝c-附發射器-港版-預計-9-10月貨"
     },
@@ -2156,7 +2174,7 @@
       "id": "mr-8901398069405",
       "title": "Takara Tomy 爆旋陀螺X - BX-23 鳳凰飛翼9-60GF【港版】",
       "sku": null,
-      "price": "20.00",
+      "price": "16.00",
       "available": true,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-x-bx-23-9-60gf"
     },
@@ -2274,7 +2292,7 @@
       "title": "Takara Tomy 爆旋陀螺X - UX-11 衝擊龍神9-60LR【港版】",
       "sku": null,
       "price": "21.00",
-      "available": true,
+      "available": false,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-x-ux-11-9-60lr"
     },
     "mr-8900190437533": {
@@ -2737,5 +2755,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-10-31 05:11:30"
+  "checked_at": "2026-10-31 12:05:10"
 }
