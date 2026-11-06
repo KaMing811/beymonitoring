@@ -1899,6 +1899,15 @@
       "available": false,
       "url": "https://www.moonroadhk.com/products/beyblade-x-bx52-luster-dragoon-6-60lc-preorder"
     },
+    "mr-9039841460381": {
+      "store": "Moonroad",
+      "id": "mr-9039841460381",
+      "title": "【預訂11月-12月貨】戰鬥陀螺X Clock Mirage 4-55S 黑色金屬塗裝｜命運的倒帶士限定版（日版）",
+      "sku": "MR-BEY-CM455S-MCB-RW",
+      "price": "76.00",
+      "available": true,
+      "url": "https://www.moonroadhk.com/products/beyblade-x-clock-mirage-4-55s-unmei-no-makimodoshi-ver"
+    },
     "mr-9039801811101": {
       "store": "Moonroad",
       "id": "mr-9039801811101",
@@ -2634,7 +2643,7 @@
       "title": "戰鬥陀螺 BBX-BeybladeX Evangelion Deck Set",
       "sku": null,
       "price": "46.00",
-      "available": false,
+      "available": true,
       "url": "https://www.moonroadhk.com/products/戰鬥陀螺-bbx-beybladex-evangelion-deck-set-pre-order"
     },
     "mr-8894235738269": {
@@ -2755,5 +2764,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-11-06 09:11:40"
+  "checked_at": "2026-11-06 17:20:47"
 }
