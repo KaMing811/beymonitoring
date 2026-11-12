@@ -2173,7 +2173,7 @@
       "store": "Moonroad",
       "id": "mr-8901398069405",
       "title": "Takara Tomy 爆旋陀螺X - BX-23 鳳凰飛翼9-60GF【港版】",
-      "sku": null,
+      "sku": "4904810913092",
       "price": "16.00",
       "available": true,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-x-bx-23-9-60gf"
@@ -2551,7 +2551,7 @@
       "store": "Moonroad",
       "id": "mr-8897476067485",
       "title": "Takara Tomy 爆旋陀螺X - BX-23 鳳凰飛翼9-60GF【日版】",
-      "sku": "4904810913092",
+      "sku": null,
       "price": "50.00",
       "available": false,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-bx-23-鳳凰飛翼9-60gf-日版"
@@ -2746,5 +2746,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-11-12 01:26:14"
+  "checked_at": "2026-11-12 09:38:36"
 }
