@@ -1896,7 +1896,7 @@
       "title": "【11月預訂】BEYBLADE X BX-52 Luster Dragoon 6-60LC 起始組",
       "sku": "MR-BX-52-OCT2026",
       "price": "26.00",
-      "available": false,
+      "available": true,
       "url": "https://www.moonroadhk.com/products/beyblade-x-bx52-luster-dragoon-6-60lc-preorder"
     },
     "mr-9039841460381": {
@@ -2746,5 +2746,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-11-14 10:11:05"
+  "checked_at": "2026-11-14 16:56:21"
 }
