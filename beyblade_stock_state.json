@@ -879,7 +879,7 @@
       "title": "日版 爆旋陀螺 Beyblade X TAKARA TOMY Beyblade 爆旋陀螺 X UX-19  Bullet Griffon  子彈獅鷲",
       "sku": null,
       "price": "159.00",
-      "available": true,
+      "available": false,
       "url": "https://hobbypocket.com/products/日版-爆旋陀螺-beyblade-x-takara-tomy-beyblade-爆旋陀螺-x-ux-19"
     },
     "hp-10359094476932": {
@@ -2274,7 +2274,7 @@
       "title": "Takara Tomy 爆旋陀螺X - CX-11 甲板套裝 (帝皇霸權 HOp, 魔像巨石 M-85HN, 烈鯊鰓刃 5-60FB)",
       "sku": "4904810098775-HKPO",
       "price": "34.00",
-      "available": false,
+      "available": true,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-cx-11-甲板套裝-帝皇霸權-hop-魔像巨石-m-85hn-烈鯊鰓刃-5-60fb"
     },
     "mr-8900286283933": {
@@ -2373,7 +2373,7 @@
       "title": "Takara Tomy 爆旋陀螺 X - CX-17 隨機陀螺 Vol.10 (隨機1款)",
       "sku": "4904810096146",
       "price": "19.00",
-      "available": false,
+      "available": true,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺-x-cx-17-隨機陀螺-vol-10-隨機1款"
     },
     "mr-8897484783773": {
@@ -2746,5 +2746,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-11-15 09:06:34"
+  "checked_at": "2026-11-15 16:55:53"
 }
