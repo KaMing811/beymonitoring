@@ -1985,7 +1985,7 @@
       "id": "mr-8986435256477",
       "title": "Takara Tomy 爆旋陀螺X -UX-20 榮耀女武神 LF (附發射器)",
       "sku": "4904810096139",
-      "price": "65.00",
+      "price": "66.00",
       "available": false,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-ux-20-榮耀女武神-lf-附發射器"
     },
@@ -2274,7 +2274,7 @@
       "title": "Takara Tomy 爆旋陀螺X - CX-11 甲板套裝 (帝皇霸權 HOp, 魔像巨石 M-85HN, 烈鯊鰓刃 5-60FB)",
       "sku": "4904810098775-HKPO",
       "price": "34.00",
-      "available": true,
+      "available": false,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺x-cx-11-甲板套裝-帝皇霸權-hop-魔像巨石-m-85hn-烈鯊鰓刃-5-60fb"
     },
     "mr-8900286283933": {
@@ -2746,5 +2746,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-11-15 16:55:53"
+  "checked_at": "2026-11-15 21:38:28"
 }
