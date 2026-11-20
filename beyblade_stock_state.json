@@ -1,68 +1,5 @@
 {
   "items": {
-    "lc-9339242610940": {
-      "store": "孤注一扭",
-      "id": "lc-9339242610940",
-      "title": "訂貨碼:80198 <訂價$1080> #(免手續費)(每人限一)Last賞 限定陀螺(金屬色)Vol.2=BeybladeX 陀螺 x DMM 一番賞",
-      "sku": "80198",
-      "price": "300.00",
-      "available": false,
-      "url": "https://lastchancetoy.com/products/訂貨碼-80198-訂價-1080-免手續費每人限一last賞-限定陀螺金屬色vol-2-beybladex-陀螺-x-dmm-一番賞"
-    },
-    "lc-9330442666236": {
-      "store": "孤注一扭",
-      "id": "lc-9330442666236",
-      "title": "訂貨碼:80193 <訂價$50> #(免手續費)G賞 (Set6pcs)壓克力吊飾及換裝貼紙=BeybladeX 陀螺 x DMM 一番賞 Vol.2",
-      "sku": "80193",
-      "price": "50.00",
-      "available": false,
-      "url": "https://lastchancetoy.com/products/訂貨碼-80193-訂價-50-免手續費g賞-set6pcs壓克力吊飾及換裝貼紙-beybladex-陀螺-x-dmm-一番賞-vol-2"
-    },
-    "lc-9330442600700": {
-      "store": "孤注一扭",
-      "id": "lc-9330442600700",
-      "title": "訂貨碼:80192 <訂價$50> #(免手續費)F賞 (Set6pcs)透明資料夾及戰鬥通行證裝飾貼紙=BeybladeX 陀螺 x DMM 一番賞 Vol.2",
-      "sku": "80192",
-      "price": "50.00",
-      "available": true,
-      "url": "https://lastchancetoy.com/products/訂貨碼-80192-訂價-50-免手續費f賞-set6pcs透明資料夾及戰鬥通行證裝飾貼紙-beybladex-陀螺-x-dmm-一番賞-vol-2"
-    },
-    "lc-9330442502396": {
-      "store": "孤注一扭",
-      "id": "lc-9330442502396",
-      "title": "訂貨碼:80191 <訂價$50> #(免手續費)E賞 (Set5pcs)橡膠圈手環=BeybladeX 陀螺 x DMM 一番賞 Vol.2",
-      "sku": "80191",
-      "price": "50.00",
-      "available": true,
-      "url": "https://lastchancetoy.com/products/訂貨碼-80191-訂價-50-免手續費e賞-set5pcs橡膠圈手環-beybladex-陀螺-x-dmm-一番賞-vol-2"
-    },
-    "lc-9330442371324": {
-      "store": "孤注一扭",
-      "id": "lc-9330442371324",
-      "title": "訂貨碼:80190 <訂價$80> #(免手續費)D賞 (Set3盒)陀螺收納盒=BeybladeX 陀螺 x DMM 一番賞 Vol.2",
-      "sku": "80190",
-      "price": "50.00",
-      "available": true,
-      "url": "https://lastchancetoy.com/products/訂貨碼-80190-訂價-50-免手續費d賞-set3盒陀螺收納盒-beybladex-陀螺-x-dmm-一番賞-vol-2"
-    },
-    "lc-9330442305788": {
-      "store": "孤注一扭",
-      "id": "lc-9330442305788",
-      "title": "訂貨碼:80189 <訂價$50> #(免手續費)C賞 (淨袋)特大手提袋=BeybladeX 陀螺 x DMM 一番賞 Vol.2",
-      "sku": "80189",
-      "price": "50.00",
-      "available": true,
-      "url": "https://lastchancetoy.com/products/訂貨碼-80189-訂價-50-免手續費c賞-淨袋特大手提袋-beybladex-陀螺-x-dmm-一番賞-vol-2"
-    },
-    "lc-9330442109180": {
-      "store": "孤注一扭",
-      "id": "lc-9330442109180",
-      "title": "訂貨碼:80188 <訂價$535> #(免手續費)(每人限一)A+B賞 限定陀螺及發射器=BeybladeX 陀螺 x DMM 一番賞 Vol.2",
-      "sku": "80188",
-      "price": "300.00",
-      "available": false,
-      "url": "https://lastchancetoy.com/products/訂貨碼-80188-訂價-535-免手續費a-b賞-限定陀螺及發射器-beybladex-陀螺-x-dmm-一番賞-vol-2"
-    },
     "hp-10481341137028": {
       "store": "Hobby Pocket",
       "id": "hp-10481341137028",
@@ -2004,7 +1941,7 @@
       "title": "Takara Tomy 爆旋陀螺X - BX-51 發射器【港版】",
       "sku": null,
       "price": "7.00",
-      "available": false,
+      "available": true,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-bx-51-發射器-港版"
     },
     "mr-8920777425053": {
@@ -2737,5 +2674,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-11-20 02:56:27"
+  "checked_at": "2026-11-20 11:18:27"
 }
