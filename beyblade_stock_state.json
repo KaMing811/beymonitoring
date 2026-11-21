@@ -1941,7 +1941,7 @@
       "title": "Takara Tomy 爆旋陀螺X - BX-51 發射器【港版】",
       "sku": null,
       "price": "7.00",
-      "available": true,
+      "available": false,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-bx-51-發射器-港版"
     },
     "mr-8920777425053": {
@@ -2674,5 +2674,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-11-21 09:31:47"
+  "checked_at": "2026-11-21 17:17:23"
 }
