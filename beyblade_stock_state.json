@@ -1050,7 +1050,7 @@
       "title": "全新現貨 日版 爆旋陀螺 BEYBLADE X BX-49 翔龍突撃",
       "sku": null,
       "price": "150.00",
-      "available": true,
+      "available": false,
       "url": "https://hobbypocket.com/products/日版-爆旋陀螺-beyblade-x-bx-49翔龍突撃"
     },
     "hp-10345518235780": {
@@ -1481,8 +1481,8 @@
       "id": "mg-15247929671921",
       "title": "Takara Tomy Beyblade X CX-20 Customize Set C (Shipping Included)",
       "sku": "PRE-ORDER-NOV-2026",
-      "price": "155.00",
-      "available": false,
+      "price": "250.00",
+      "available": true,
       "url": "https://www.mobilegaragehk.com/products/takara-tomy-beyblade-x-cx-20-customize-set-c-shipping-included"
     },
     "mg-10307398271217": {
@@ -2040,7 +2040,7 @@
       "title": "Takara Tomy 爆旋陀螺X - BX-10 極限陀螺盤套裝【港版】",
       "sku": "4904810910596",
       "price": "17.00",
-      "available": true,
+      "available": false,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-bx-10-極限陀螺盤套裝-港版-7月貨"
     },
     "mr-8903713980573": {
@@ -2674,5 +2674,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-11-22 11:08:34"
+  "checked_at": "2026-11-22 19:24:11"
 }
