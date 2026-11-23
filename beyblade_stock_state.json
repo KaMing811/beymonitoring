@@ -1471,7 +1471,7 @@
       "store": "Mobile Garage",
       "id": "mg-15247939141873",
       "title": "Takara Tomy Beyblade X BX-54 Sieg Superion 0-70LP Booster",
-      "sku": "PRE-ORDER-NOV-2026",
+      "sku": "C-001-004",
       "price": "25.99",
       "available": true,
       "url": "https://www.mobilegaragehk.com/products/takara-tomy-beyblade-x-bx-54-sieg-superion-0-70lp-booster"
@@ -1480,7 +1480,7 @@
       "store": "Mobile Garage",
       "id": "mg-15247929671921",
       "title": "Takara Tomy Beyblade X CX-20 Customize Set C (Shipping Included)",
-      "sku": "PRE-ORDER-NOV-2026",
+      "sku": "C-001-004",
       "price": "250.00",
       "available": true,
       "url": "https://www.mobilegaragehk.com/products/takara-tomy-beyblade-x-cx-20-customize-set-c-shipping-included"
@@ -2040,7 +2040,7 @@
       "title": "Takara Tomy 爆旋陀螺X - BX-10 極限陀螺盤套裝【港版】",
       "sku": "4904810910596",
       "price": "17.00",
-      "available": false,
+      "available": true,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-bx-10-極限陀螺盤套裝-港版-7月貨"
     },
     "mr-8903713980573": {
@@ -2674,5 +2674,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-11-23 00:43:40"
+  "checked_at": "2026-11-23 08:50:25"
 }
