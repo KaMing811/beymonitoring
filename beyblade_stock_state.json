@@ -1760,7 +1760,7 @@
       "id": "mg-9571746414833",
       "title": "[Shipping Included] Beyblade X Evangelion Beyblade CX-00 Deck Set",
       "sku": "C-001-004",
-      "price": "150.00",
+      "price": "120.00",
       "available": true,
       "url": "https://www.mobilegaragehk.com/products/beyblade-x-evangelion-beyblade-cx-00-deck-set"
     },
@@ -2697,7 +2697,7 @@
       "title": "戰鬥陀螺 BBX-BeybladeX Evangelion Deck Set",
       "sku": null,
       "price": "42.00",
-      "available": false,
+      "available": true,
       "url": "https://www.moonroadhk.com/products/戰鬥陀螺-bbx-beybladex-evangelion-deck-set-pre-order"
     },
     "mr-8894235738269": {
@@ -2818,5 +2818,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-11-24 05:51:19"
+  "checked_at": "2026-11-24 17:26:05"
 }
