@@ -21,7 +21,7 @@
     "lc-15499852939516": {
       "store": "孤注一扭",
       "id": "lc-15499852939516",
-      "title": "訂貨碼:81572 <訂價$50> #(免手續費)(行版)D賞 (Set3盒)陀螺收納盒=BeybladeX 陀螺 x DMM 一番賞 Vol.2",
+      "title": "訂貨碼:81572 <訂價$80> #(免手續費)(行版)D賞 (Set3盒)陀螺收納盒=BeybladeX 陀螺 x DMM 一番賞 Vol.2",
       "sku": "81572",
       "price": "50.00",
       "available": true,
@@ -2244,10 +2244,10 @@
     "mr-8903713751197": {
       "store": "Moonroad",
       "id": "mr-8903713751197",
-      "title": "【PRE-ORDER 】Takara Tomy 爆旋陀螺X - UX-04 對戰入門套裝 (附發射器)【港版】 8月貨",
+      "title": "Takara Tomy 爆旋陀螺X - UX-04 對戰入門套裝 (附發射器)【港版】",
       "sku": "4904810914501",
       "price": "52.00",
-      "available": false,
+      "available": true,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-ux-04-對戰入門套裝-附發射器-港版-7月貨"
     },
     "mr-8903713685661": {
@@ -2854,5 +2854,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-11-26 04:51:38"
+  "checked_at": "2026-11-26 14:55:19"
 }
