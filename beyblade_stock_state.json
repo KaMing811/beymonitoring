@@ -1967,7 +1967,7 @@
       "id": "mr-15453160308949",
       "title": "【11月預訂】BEYBLADE X CX-20 改造套裝C",
       "sku": null,
-      "price": "91.00",
+      "price": "92.00",
       "available": false,
       "url": "https://www.moonroadhk.com/products/11月預訂-beyblade-x-cx-20-改造套裝c"
     },
@@ -2003,7 +2003,7 @@
       "id": "mr-9054380720285",
       "title": "【10–11月預訂】BEYBLADE X BX-53 All-in-One 豪華入門套裝",
       "sku": "MR-BX-53-OCT2026",
-      "price": "91.00",
+      "price": "92.00",
       "available": false,
       "url": "https://www.moonroadhk.com/products/beyblade-x-bx53-all-in-one-set-preorder"
     },
@@ -2192,7 +2192,7 @@
       "id": "mr-8907897438365",
       "title": "Takara Tomy 爆旋陀螺 BeybladeX x DMM 一番賞 Vol.2 (原箱)(Pre-order)",
       "sku": null,
-      "price": "495.00",
+      "price": "496.00",
       "available": false,
       "url": "https://www.moonroadhk.com/products/takara-tomy-爆旋陀螺-beybladex-x-dmm-一番賞-vol-2-原箱pre-order"
     },
@@ -2220,7 +2220,7 @@
       "title": "Takara Tomy 爆旋陀螺X - BX-10 極限陀螺盤套裝【港版】",
       "sku": "4904810910596",
       "price": "17.00",
-      "available": true,
+      "available": false,
       "url": "https://www.moonroadhk.com/products/pre-order-takara-tomy-爆旋陀螺x-bx-10-極限陀螺盤套裝-港版-7月貨"
     },
     "mr-8903713980573": {
@@ -2854,5 +2854,5 @@
       "url": "https://www.toysrus.com.hk/zh-hk/search/?q=Beyblade+X"
     }
   },
-  "checked_at": "2026-11-26 23:40:03"
+  "checked_at": "2026-11-27 07:56:21"
 }
